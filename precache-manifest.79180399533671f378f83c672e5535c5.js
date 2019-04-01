@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8153b4612d0c06b00c66",
+    "revision": "85d25b916ed1ec6b0226",
     "url": "/movieApp/static/css/main.ea446ab8.chunk.css"
   },
   {
-    "revision": "8153b4612d0c06b00c66",
-    "url": "/movieApp/static/js/main.8153b461.chunk.js"
+    "revision": "85d25b916ed1ec6b0226",
+    "url": "/movieApp/static/js/main.85d25b91.chunk.js"
   },
   {
     "revision": "e1230c08fc24f44a6862",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/movieApp/static/media/Montserrat-Regular.9c460951.ttf"
   },
   {
-    "revision": "dcd75bfc0a151a2adf852f042ba2f0af",
+    "revision": "c5c791249053d7ead8cd2783bc153190",
     "url": "/movieApp/index.html"
   }
 ];
